@@ -1,1 +1,2 @@
-Practicing Git workflow
+This is DevOps practices.
+Change made from conflict2 branch.Practicing Git workflow
