@@ -1,1 +1,3 @@
 Practicing Git workflow
+This is DevOps practice - updated from conflict1 branch.
+Change made from conflict1 branch.
